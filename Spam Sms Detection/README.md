@@ -1,5 +1,5 @@
 # Spam SMS Detection
-This project is part of the Codsoft Machine Learning Internship. The goal is to classify SMS messages as spam or legitimate using text classification techniques.
+The goal is to classify SMS messages as spam or legitimate using text classification techniques.
 
 ## Features
 
