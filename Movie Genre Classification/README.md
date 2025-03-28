@@ -1,5 +1,5 @@
 # Movie Genre Classification
-This project is part of the Codsoft Machine Learning Internship. The goal is to predict the genre of a movie based on its plot summary using machine learning techniques.
+The goal is to predict the genre of a movie based on its plot summary using machine learning techniques.
 
 ## Features
 
