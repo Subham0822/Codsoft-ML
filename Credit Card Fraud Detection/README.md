@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection
-This project is part of the Codsoft Machine Learning Internship. The goal is to detect fraudulent credit card transactions using classification algorithms.
+The goal is to detect fraudulent credit card transactions using classification algorithms.
 
 ## Features
 
